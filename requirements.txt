@@ -1,0 +1,9 @@
+fastapi>=0.115.6
+joblib>=1.4.2
+numpy>=2.3.3
+pandas>=2.3.3
+pyarrow>=18.1.0
+pytest>=8.3.4
+scikit-learn>=1.7.2
+streamlit>=1.41.1
+uvicorn[standard]>=0.34.0
